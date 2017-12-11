@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "26abbd11-b930-48df-a47a-05b7d58fa6e3",
+            "Value": {
+                "id": "6cc36c1b-981b-4cfe-86c3-834bb614b6c2",
+                "resourcePath": "sprites\\Dog1\\Dog1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "26fb9649-cbfc-4f39-9a63-193c15455f94",
             "Value": {
                 "id": "263cddf7-c97d-45c9-821b-8b8cadd9b0ac",
