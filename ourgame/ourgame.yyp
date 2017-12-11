@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "8a6e4c41-8e1c-4300-9ca6-61ab02fd7f1d",
+            "Value": {
+                "id": "972aca5b-78f5-49a5-9653-dbcc9c47c3f0",
+                "resourcePath": "sprites\\Dog2\\Dog2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f003e28-aa87-4325-abb6-132e7d02592d",
             "Value": {
                 "id": "2c2f6db8-5dc7-40d6-be7f-a69f5769a187",
